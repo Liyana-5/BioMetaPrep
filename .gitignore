@@ -1,0 +1,21 @@
+# virtual environments
+.biometa/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# tooling caches
+.pytest_cache/
+.ruff_cache/
+
+# build artifacts
+dist/
+build/
+*.egg-info/
+
+# Other files
+*.docx
+*.xlsx
+*.pptx
