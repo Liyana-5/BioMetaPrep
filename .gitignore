@@ -19,3 +19,9 @@ build/
 *.docx
 *.xlsx
 *.pptx
+*.pdf
+*.tsv
+*.csv
+
+# Generated normalization reports
+out/*report*.md
