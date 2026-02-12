@@ -20,7 +20,7 @@ pip install -e .
 ```
 ## Usage 
 ```bash
-biometaprep normalize path/to/metadata.tsv --outdir path/to/outputdir
+biometaprep path/to/metadata.tsv --outdir path/to/outputdir
 ```
 
 ## Outputs
