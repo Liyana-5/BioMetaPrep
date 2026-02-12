@@ -30,3 +30,6 @@ biometaprep path/to/metadata.tsv --outdir path/to/outputdir
 
 ## Status
 Actively developed. Intended to be integrated as a preprocessing component in larger bioinformatics pipelines (e.g. Snakemake/Nextflow)
+
+---
+Author : Liyana Saleem
