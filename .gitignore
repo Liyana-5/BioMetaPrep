@@ -26,6 +26,6 @@ build/
 *.pdf
 *.tsv
 *.csv
-
+.coverage
 # Generated normalization reports
 out/*report*.md
