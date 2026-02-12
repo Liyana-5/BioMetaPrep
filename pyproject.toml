@@ -12,5 +12,8 @@ dependencies = [
 "rich>=13.0",
 ]
 
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
 [project.scripts]
 biometaprep = "biometaprep.cli:app"
